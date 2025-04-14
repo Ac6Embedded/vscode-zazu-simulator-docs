@@ -9,7 +9,7 @@ const FeatureList = [
     to: '@site/docs/Zazu',
     description: (
       <>
-        Find the complete user documentation that provides an in-depth look at every 
+        Tarek Find the complete user documentation that provides an in-depth look at every 
         feature and capability of Zazu.
       </>
     ),
