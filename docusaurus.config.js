@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ZAZU',
+  title: 'Zazu Simulator',
   tagline: 'A VS Code extension for simulating embedded systems',
   favicon: 'img/zazu.svg',
 
